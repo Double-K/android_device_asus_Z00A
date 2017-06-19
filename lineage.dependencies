@@ -15,8 +15,8 @@
     "target_path": "external/stlport"
   },
   {
-	"revision": "cm-14.1",
-	"repository": "TheMuppets/proprietary_vendor_asus",
+	"revision": "nougat",
+	"repository": "Double-/proprietary_vendor_asus",
 	"target_path": "vendor/asus"
   } 
 ]
